@@ -1,3 +1,1 @@
-# tests/test_smoke.py
-def test_smoke():
-    assert 2 + 2 == 4
+def test_smoke():\n    assert 2 + 2 == 4
